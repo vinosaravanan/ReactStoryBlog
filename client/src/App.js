@@ -13,7 +13,7 @@ import Home from './componets/Home'
 import { ThemeProvider } from '@mui/system'
 import { createTheme } from '@mui/material'
 function App() {
-// update on github
+
   
   const theme = createTheme({
     typography: {
